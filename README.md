@@ -6,6 +6,8 @@ This repository provides comprehensive documentation and resources for cloning, 
 
 For complete step-by-step instructions on setting up Cal.com, please see our detailed **[Setup Guide](SETUP_GUIDE.md)**.
 
+**New here?** Check out our **[Documentation Index](INDEX.md)** for a guided tour of all available resources.
+
 ## 🚀 Quick Commands
 
 ```bash
