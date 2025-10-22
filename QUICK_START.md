@@ -123,6 +123,9 @@ yarn install
 ## Resources
 
 - 📖 [Full Setup Guide](./SETUP_GUIDE.md) - Complete detailed instructions
+- 📝 [Commands Reference](./COMMANDS_REFERENCE.md) - All command cheat sheet
+- 🔄 [Process Flowchart](./PROCESS_FLOWCHART.md) - Visual guides
+- 🔧 [Troubleshooting Guide](./TROUBLESHOOTING.md) - Fix common issues
 - 🌐 [Cal.com Documentation](https://cal.com/docs)
 - 💬 [Community Slack](https://cal.com/slack)
 - 🐛 [GitHub Issues](https://github.com/calcom/cal.com/issues)

@@ -271,6 +271,8 @@ yarn format           # Format code with Prettier
 
 ## Troubleshooting
 
+For detailed troubleshooting steps, see [TROUBLESHOOTING.md](./TROUBLESHOOTING.md).
+
 ### Port Already in Use
 If port 3000 is already in use:
 ```bash

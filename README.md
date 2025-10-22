@@ -6,8 +6,12 @@ This repository contains comprehensive documentation and automation scripts to h
 
 ## 📚 Documentation
 
+- **[📑 Documentation Index](./INDEX.md)** - Complete navigation guide to all docs
 - **[Quick Start Guide](./QUICK_START.md)** - Get started in minutes with condensed instructions
 - **[Full Setup Guide](./SETUP_GUIDE.md)** - Complete detailed documentation with explanations
+- **[Commands Reference](./COMMANDS_REFERENCE.md)** - Comprehensive command cheat sheet
+- **[Process Flowchart](./PROCESS_FLOWCHART.md)** - Visual guides and decision trees
+- **[Troubleshooting Guide](./TROUBLESHOOTING.md)** - Solutions to common issues
 - **[Automated Setup Scripts](#-automated-setup)** - One-click setup for your platform
 
 ## 🚀 Quick Start
@@ -115,11 +119,15 @@ By following these guides, you'll understand:
 
 ```
 neoticai-calendar/
-├── README.md           # This file - overview and links
-├── QUICK_START.md      # Condensed quick start guide
-├── SETUP_GUIDE.md      # Comprehensive setup documentation
-├── setup.sh            # Automated setup script (Unix/Linux/macOS)
-└── setup.bat           # Automated setup script (Windows)
+├── README.md              # This file - overview and links
+├── INDEX.md               # Complete navigation guide to all documentation
+├── QUICK_START.md         # Condensed quick start guide
+├── SETUP_GUIDE.md         # Comprehensive setup documentation
+├── COMMANDS_REFERENCE.md  # All commands reference
+├── PROCESS_FLOWCHART.md   # Visual guides and flowcharts
+├── TROUBLESHOOTING.md     # Solutions to common problems
+├── setup.sh               # Automated setup script (Unix/Linux/macOS)
+└── setup.bat              # Automated setup script (Windows)
 ```
 
 ## 🤝 Contributing
