@@ -29,8 +29,18 @@ Follow the detailed step-by-step guide in [SETUP_GUIDE.md](./SETUP_GUIDE.md).
 
 ## 📚 Documentation
 
+### Setup Guides
 - **[SETUP_GUIDE.md](./SETUP_GUIDE.md)** - Complete step-by-step manual setup instructions
-- **[setup-calcom.sh](./setup-calcom.sh)** - Automated setup script
+- **[QUICK_REFERENCE.md](./QUICK_REFERENCE.md)** - Quick reference card for all commands
+- **[COMMANDS.md](./COMMANDS.md)** - Detailed command reference for all platforms
+
+### Setup Scripts
+- **[setup-calcom.sh](./setup-calcom.sh)** - Automated setup script (Linux/macOS)
+- **[setup-calcom.bat](./setup-calcom.bat)** - Automated setup script (Windows)
+
+### Support Documentation
+- **[TROUBLESHOOTING.md](./TROUBLESHOOTING.md)** - Solutions to common problems
+- **[FAQ.md](./FAQ.md)** - Frequently asked questions
 
 ## ✅ Prerequisites
 
