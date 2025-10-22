@@ -29,6 +29,8 @@ Follow the detailed step-by-step guide in [SETUP_GUIDE.md](./SETUP_GUIDE.md).
 
 ## 📚 Documentation
 
+### 📑 [Documentation Index](./INDEX.md) - Complete guide to all documentation
+
 ### Setup Guides
 - **[SETUP_GUIDE.md](./SETUP_GUIDE.md)** - Complete step-by-step manual setup instructions
 - **[QUICK_REFERENCE.md](./QUICK_REFERENCE.md)** - Quick reference card for all commands
